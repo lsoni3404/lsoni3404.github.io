@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://lalitsoni.github.io/
+> https://lsoni3404.github.io/
 
 :star: Star me on GitHub — it helps!
 
